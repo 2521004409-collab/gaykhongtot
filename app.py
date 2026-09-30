@@ -1,7 +1,7 @@
 ```python
 import streamlit as st
 import pandas as pd
-st.image("logo.jpg")
+
 
 # ============================================================
 # CẤU HÌNH ỨNG DỤNG
